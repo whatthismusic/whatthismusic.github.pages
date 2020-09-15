@@ -1,0 +1,8 @@
+# Contact, rss and social media links
+# The icon names can be found at https://fontawesome.com
+
+links:
+  - {icon: 'rss', link: '/feed.xml'}
+  - {icon: 'envelope', link: 'mailto:whatthismusic@outlook.com'}
+  - {icon: 'twitter', link: 'https://twitter.com/whatthismusic'}
+  - {icon: 'facebook', link: 'https://www.facebook.com/whatthismusic'}

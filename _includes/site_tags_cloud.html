@@ -1,0 +1,11 @@
+<div class="tag-cloud">
+	{% if site.tags.size > 0 %}
+	  {% assign tags = site.tags | sort %}
+	  {% for tag in tags %}
+	    {% capture tag_name %}{{ tag[0] }}{% endcapture %}
+	    <a href="/tag/{{ tag_name }}.html">
+		    <code class="tag">{{ tag_name }}</code>
+	    </a>
+		{% endfor %}
+	{% endif %}
+</div>

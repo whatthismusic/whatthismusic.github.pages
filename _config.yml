@@ -1,0 +1,67 @@
+### your site title here
+
+title: What This MUSIC!
+description: What This MUSIC! is a platform I created to everything about music -- the songs, musicians, and/or the stories that come with it.
+baseurl:  # name of the repository
+email: whatthismusic@outlook.com
+url: https://www.whatthismusic.com
+tagline: What This MUSIC! is a platform I created to share everything about music -- the songs, musicians, and/or the stories that come with it.
+author: Alvin Sim
+twitter:
+  username: whatthismusic
+  card: summary
+logo: /images/android-chrome-512x512.png
+social:
+  name: What This MUSIC!
+  links:
+    - https://twitter.com/whatthismusic
+    - https://www.facebook.com/whatthismusic
+
+highlighter: rouge
+markdown: kramdown
+### exclude the instructions / write-up in the README.md
+
+# Tracker
+analytics: UA-177907667-1
+
+# Comments
+disqus-shortname: whatthismusic
+
+# Date format
+date_format: "%b %-d, %Y"
+
+#optimization
+#compress.html
+compress_html:
+  clippings: [html,div, p, ul, td, h1, h2, h3, h4,link, meta, footer, nav, img, header, hr, br, head, style, li, ul, ol, time, main, script, title]
+  comments: ["<!-- ", " -->"]
+  endings: [all]
+  ignore:
+    envs: [local]
+  blanklines: false
+  profile: false
+  startings: []
+
+# Pagination
+paginate: 5
+paginate_path: "/page/:num"
+
+# Tags config for jekyll-tagging
+tag_page_layout: tag_page
+tag_page_dir: tag
+
+sass:
+ style: compressed
+
+exclude:
+- README.md
+- todo.org
+- LICENCE.md
+
+plugins:
+  - jekyll-feed
+  - jekyll-org
+  - jekyll-paginate
+  - jekyll-seo-tag
+  - jekyll-sitemap
+  - jekyll/tagging

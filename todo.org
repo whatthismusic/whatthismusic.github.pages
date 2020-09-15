@@ -1,0 +1,41 @@
+#+TITLE: TODO Tasks
+#+STARTUP: showall
+#+OPTIONS: toc: nil
+#+TODO: TODO(t) DOING(g) | DONE(D) CANCEL(C)
+
+* Tasks [88%]
+** DONE Update footer to show email and social media links          :@footer:
+** DONE Add and implement jekyll-feed                            :feed:@home:
+** DONE Realign the top menu to align to the right             :menu:@header:
+** DONE Add creative commons license                        :license:@footer:
+** DONE Update "About" page                                     :page:@about:
+** DONE Change the icon of the "<" Home button or remove it     :button:home:
+** DONE Find alternative chat system then Disqus                :chat:disqus:
+- [[https://staticman.net/docs/index.html][staticman]]
+- [[https://mademistakes.com/articles/jekyll-static-comments/][static comments]]
+- [[https://github.com/damieng/jekyll-blog-comments][jekyll-blog-comments]]
+** DONE Add published date for each posts listed in the home page :@home:posts:date:
+** DONE Add favicon                                                 :favicon:
+** DONE Add touchicon                                             :touchicon:
+- https://blog.webjeda.com/optimize-jekyll-seo/
+** DONE Update the footer to show powered by Jekyll                 :@footer:
+** DONE Create new email account at hover or gmail      :email:@hover:@gmail:
+** TODO Permalink                                                 :permalink:
+- Refer to [[https://superdevresources.com/share-buttons-jekyll]]
+** DONE Create new github/gitlab account to use pages       :@github:@gitlab:
+** DONE Share posts to social media                :@post:socialmedia:button:
+** DONE Show only published posts                             :@post:publish:
+** DONE Add tag page                                              :@page:tag:
+- Refer to https://jekyllrb.com/docs/posts/ and https://jekyll-themes.com/simply-jekyll/
+** DONE Add sitemap                                                :@sitemap:
+** DONE Add pagination on the home page                    :@home:pagination:
+** DONE Move site title similar to own site                  :@default:title:
+** DONE Remove floating "Home" button                  :@default:home:button:
+** DONE Display tags in a post                                   :@post:tags:
+- Refer to http://longqian.me/2017/02/09/github-jekyll-tag/
+** TODO Add search                                                   :search:
+** TODO Find out what to configure for jekyll-seo-tag :@jekyllseotag:seo:tag:
+** DONE Add analytics                                             :analytics:
+- [[https://github.com/hendrikschneider/jekyll-analytics][jekyll-analytics]]
+** DONE Create Twitter account                                     :@twitter:
+** DONE Create Facebook page                                      :@facebook:

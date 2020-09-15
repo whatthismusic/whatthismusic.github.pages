@@ -1,0 +1,36 @@
+---
+layout: default
+comments: true
+---
+
+<h1 class="post-headline">{{ page.title }}</h1>
+
+{%- assign author = post.author | default: "" -%}
+
+<div id="post-meta">
+	<small>
+		{{ page.date | date: '%B %d, %Y' }} {% if author != null and author != "" %} by {{ author }} {% endif%}
+	</small>
+</div>
+
+<!-- Display tags -->
+{% if page.tags.size > 0 %}
+  <span>
+	  {% for tag in page.tags %}
+	    {% capture tag_name %}{{ tag }}{% endcapture %}
+	    <a href="/tag/{{ tag_name }}.html">
+		    <code class="tag">{{ tag_name }}</code>
+	    </a>
+		{% endfor %}
+	</span>
+{% endif %}
+
+{{ content }}
+{% include share_bar.html %}
+
+<!-- Comments only for posts -->
+{% if page.path contains '_posts' %}
+    {% if site.disqus-shortname %}
+        {% include disqus.html %}
+    {% endif %}
+{% endif %}

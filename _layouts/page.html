@@ -1,0 +1,15 @@
+---
+layout: default
+---
+
+<h1 class="post-headline">{{ page.title }}</h1>
+
+{%- assign author = post.author | default: "" -%}
+
+<div id="post-meta">
+	<small>
+		{{ page.date | date: '%B %d, %Y' }} {% if author != null and author != "" %} by {{ author }} {% endif%}
+	</small>
+</div>
+
+{{ content }}

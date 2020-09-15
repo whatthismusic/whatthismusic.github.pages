@@ -1,0 +1,42 @@
+---
+layout: default
+---
+<!-- <h1 class="headline">{{ site.title }}</h1> -->
+<div class="article-list">
+	{%- assign date_format = site.date_format | default: "%b %-d, %Y" -%}
+	{% for post in paginator.posts %}
+	  {%- assign author = post.author | default: "" -%}
+    <h2>
+		  <a href="{{ post.url | prepend: site.baseurl }}">{{ post.title }}</a>
+	  </h2>
+	  <div id="post-meta">
+			<small>
+				{{ post.date | date: date_format }} {% if author != null and author != "" %} by {{ author }} {% endif%}
+			</small>
+		</div>
+    <p>{{ post.excerpt | strip_html }}</p>
+		{% endfor %}
+</div>
+
+<!-- pagination -->
+{% if paginator.total_pages > 1 %}
+  <div class="pagination">
+  	{% if paginator.previous_page %}
+  	  <a href="{{ paginator.previous_page_path }}" class="previous">Previous</a>
+  	{% endif %}
+
+		{% for page in (1..paginator.total_pages) %}
+			{% if page == paginator.page %}
+			  {{ page }}
+			{% elsif page == 1 %}
+			  <a href="{{ '/' | relative_url }}">{{ page }}</a>
+			{% else %}
+			  <a href="{{ site.paginate_pat | relative_url | replace: ':num', page}}">{{ page }}</a>
+			{% endif %}
+		{% endfor %}
+
+		{% if paginator.next_page %}
+  	  <a href="{{ paginator.next_page_path }}" class="next">Next</a>
+  	{% endif %}
+  </div>
+{% endif %}

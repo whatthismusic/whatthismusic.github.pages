@@ -1,0 +1,20 @@
+---
+layout: default
+title: What This MUSIC!
+---
+
+{% include site_tags_cloud.html %}
+
+<h1 class="tag-headline" id="{{ page.tag }}">
+	<i class="fa fa-tags"></i> Tag: <code class="tag">{{ page.tag }}</code>
+</h1>
+<ul>
+  {% for post in page.posts %}
+	  <li class="tag-list">
+		  <a href="{{ post.url }}">{{ post.title }}</a>
+		  <span class="post-meta">
+		    <small>{{ post.date | date: '%B %d, %Y' }} by {{ post.author }}</small>
+		  </span>
+	  </li>
+	{% endfor %}
+</ul>
