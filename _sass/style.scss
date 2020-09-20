@@ -235,7 +235,7 @@ span.logo-em {
 	padding-top: $spacing-unit;
 }
 
-#post-meta {
+.post-meta {
 	color: $grey-color;
 	font-size: $small-font-size;
 	font-style: italic;
@@ -261,4 +261,10 @@ li.tag-list {
 
 .tag-cloud {
 	padding: $spacing-unit 0;
+}
+
+figcaption {
+	color: $grey-color;
+	font-size: $small-font-size;
+	font-style: italic;
 }

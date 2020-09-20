@@ -3,7 +3,7 @@
 #+OPTIONS: toc: nil
 #+TODO: TODO(t) DOING(g) | DONE(D) CANCEL(C)
 
-* Tasks [88%]
+* Tasks [93%]
 ** DONE Update footer to show email and social media links          :@footer:
 ** DONE Add and implement jekyll-feed                            :feed:@home:
 ** DONE Realign the top menu to align to the right             :menu:@header:
@@ -20,7 +20,7 @@
 - https://blog.webjeda.com/optimize-jekyll-seo/
 ** DONE Update the footer to show powered by Jekyll                 :@footer:
 ** DONE Create new email account at hover or gmail      :email:@hover:@gmail:
-** TODO Permalink                                                 :permalink:
+** CANCEL Permalink                                               :permalink:
 - Refer to [[https://superdevresources.com/share-buttons-jekyll]]
 ** DONE Create new github/gitlab account to use pages       :@github:@gitlab:
 ** DONE Share posts to social media                :@post:socialmedia:button:
@@ -38,4 +38,29 @@
 ** DONE Add analytics                                             :analytics:
 - [[https://github.com/hendrikschneider/jekyll-analytics][jekyll-analytics]]
 ** DONE Create Twitter account                                     :@twitter:
+** DONE Add CNAME                                                     :cname:
+** DONE Make custom domain accessible                                :@hover:
+** DONE Enforce https                                           :@github:tls:
 ** DONE Create Facebook page                                      :@facebook:
+
+* Articles [1/20]
+** TODO Ailee                                             :ailee:@southkorea:
+** TODO Epik High                                :tablo:@southkorea:epikhigh:
+** TODO AKMU                                               :akmu:@southkorea:
+** DONE Dirgahayu                                       :dirgahayu:@malaysia:
+** TODO EB Duet                                            :ebduet:@malaysia:
+** TODO Mocca                                              :mocca:@indonesia:
+** TODO Elephant Gym                                    :elephantgym:@taiwan:
+** TODO Sorry Youth                                      :sorryyouth:@taiwan:
+** TODO Phitvum                                           :phitvum:@thailand:
+** TODO Tricot                                                :tricot:@japan:
+** TODO Mutesite                                         :mutesite:@malaysia:
+** TODO Sonic-pi                                        :sonicpi:application:
+** TODO No Guitar is Safe                           :noGuitarIsSafe:@podcast:
+** TODO Namewee                                           :namewee:@malaysia:
+** TODO An Pu                                                  :anpu:@taiwan:
+** TODO Boon Hui Lu                                    :boonHuiLu:@singapore:
+** TODO Haoren                                             :haoren:@malaysia:
+** TODO Fadhli                                             :fadhli:@malaysia:
+** TODO Nama the Music                               :namaTheMusic:@malaysia:
+** TODO Bone Thugs N'Harmony                     :boneThugsNHarmony:@usa:rap:

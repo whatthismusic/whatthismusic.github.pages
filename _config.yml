@@ -16,6 +16,7 @@ social:
   links:
     - https://twitter.com/whatthismusic
     - https://www.facebook.com/whatthismusic
+excerpt_separator: " ..."
 
 highlighter: rouge
 markdown: kramdown
@@ -43,7 +44,7 @@ compress_html:
   startings: []
 
 # Pagination
-paginate: 5
+paginate: 8
 paginate_path: "/page/:num"
 
 # Tags config for jekyll-tagging
