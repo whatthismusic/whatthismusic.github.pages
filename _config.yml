@@ -61,7 +61,6 @@ exclude:
 
 plugins:
   - jekyll-feed
-  - jekyll-org
   - jekyll-paginate
   - jekyll-seo-tag
   - jekyll-sitemap
