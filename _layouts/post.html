@@ -15,7 +15,7 @@ comments: true
 
 <!-- Display tags -->
 {% if page.tags.size > 0 %}
-  <span>
+  <span style="padding-bottom: 30px">
 	  {% for tag in page.tags %}
 	    {% capture tag_name %}{{ tag }}{% endcapture %}
 	    <a href="/tag/{{ tag_name }}.html">
