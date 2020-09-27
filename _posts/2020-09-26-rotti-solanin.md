@@ -17,7 +17,7 @@ Taneda's band is called ROTTI, which he formed with his friends from university,
 
 {% include youtube.html id='H1Y6Q8URTGY' %}
 
-The lyrics for Solanin, the song, was written by Inio Asano and the music was composed by [Asian Kung-Fu Generation](https://en.wikipedia.org/wiki/Asian_Kung-Fu_Generation){:target="_blank"}[^2]. The YouTube video above is a life recording of the scene where ROTTI performed ささかな and Solanin. I personally prefer this version of the song Solanin than AKFG's. When you listen to Aoi Miyazaki sing it, you can somehow feel the message in the song.
+The lyrics for Solanin, the song, was written by Inio Asano and the music was composed by [Asian Kung-Fu Generation](https://en.wikipedia.org/wiki/Asian_Kung-Fu_Generation){:target="_blank"}[^2]. The YouTube video above is a live recording of the scene where ROTTI performed ささかな and Solanin. I personally prefer this version of the song Solanin than AKFG's. When you listen to Aoi Miyazaki sing it, you can somehow feel the message in the song.
 
 English version of the lyrics can be found [here](http://www.songlyrics.com/asian-kung-fu-generation/solanin-lyrics/){:target="_blank"}.
 
