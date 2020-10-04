@@ -43,7 +43,7 @@
 ** DONE Enforce https                                           :@github:tls:
 ** DONE Create Facebook page                                      :@facebook:
 
-* Articles [1/20]
+* Articles [3/25]
 ** TODO Ailee                                             :ailee:@southkorea:
 ** TODO Epik High                                :tablo:@southkorea:epikhigh:
 ** TODO AKMU                                               :akmu:@southkorea:
@@ -64,3 +64,12 @@
 ** TODO Fadhli                                             :fadhli:@malaysia:
 ** TODO Nama the Music                               :namaTheMusic:@malaysia:
 ** TODO Bone Thugs N'Harmony                     :boneThugsNHarmony:@usa:rap:
+** DONE ROTTI - Solanin                           :rotti:solanin:akfg:@japan:
+** DOING Yoyoka Covers Mr. Big's Take Cover       :yoyoka:mrbig:cover:@japan:
+** DOING Elephant Gym -- Half                      :elephantGym:half:@taiwan:
+** TODO JRabbit                                              :jrabbit:@korea:
+** TODO Feng E challenges Davie504         :fenge:davie504:challenge:@taiwan:
+	 - https://www.youtube.com/watch?v=KMg4F5ZUf4Q
+** TODO Lisa-X looking back at her memories                    :lisax:@japan:
+	 - https://www.youtube.com/watch?v=eqnJpXmt_jU
+** TODO Voice of Baceprot                        :voiceOfBaceprot:@indonesia:
