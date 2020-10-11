@@ -43,7 +43,7 @@
 ** DONE Enforce https                                           :@github:tls:
 ** DONE Create Facebook page                                      :@facebook:
 
-* Articles [3/25]
+* Articles [2/30]
 ** TODO Ailee                                             :ailee:@southkorea:
 ** TODO Epik High                                :tablo:@southkorea:epikhigh:
 ** TODO AKMU                                               :akmu:@southkorea:
@@ -73,3 +73,6 @@
 ** TODO Lisa-X looking back at her memories                    :lisax:@japan:
 	 - https://www.youtube.com/watch?v=eqnJpXmt_jU
 ** TODO Voice of Baceprot                        :voiceOfBaceprot:@indonesia:
+** TODO Henry Together                                 :henryTogether:@korea:
+** TODO Sorry Youth                                      :sorryYouth:@taiwan:
+** TODO Metallica S&M                                  :metallica:sandm:@usa:

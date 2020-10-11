@@ -7,10 +7,6 @@ date: 2020-09-20
 published: true
 ---
 
-```
-Updated 2020-09-22: Added Amazon Music and Apple Music links
-```
-
 Dirgahayu, Malaysia's instrumental rock group, has just announced their new song on Malaysia Day (_16 September, 2020_), Ilhak.
 
 {% include youtube.html id='4vw2fhtEdtg' %}
@@ -34,6 +30,10 @@ Below is the performance they did on The Wknd (_around 2015_) with three of my f
 {% include youtube.html id='zEvQlRGEuB0' %}
 
 If you like this article, do like, share, leave a comment and subscribe (_to the RSS feed_). Don't forget to follow Dirgahayu on their social media for updated news and support them by sharing their music, watch their gig when they are in town and buy their merchandises.
+
+```
+Updated 2020-09-22: Added Amazon Music and Apple Music links.
+```
 
 # More about Dirgahayu
 
