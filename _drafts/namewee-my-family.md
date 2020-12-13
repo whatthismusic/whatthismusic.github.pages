@@ -15,7 +15,7 @@ It starts with a children's song sang in a mystical way giving the listeners an 
 
 The song has a very strong message with regards to the education system in Malaysia. This is something that most Malaysians who have gone through the public education system can relate to. I believe the three of them have done well to convey their own perspective on the matter. To know more about the story behind the song, you can watch The Making of "Happy Family" by Namewee below.
 
-{% include youtube.html id='NbvDLeVFyhc'}
+{% include youtube.html id='NbvDLeVFyhc' %}
 
 5Forty2 has also recorded a video whereby Phonic, DMent and NanaMerah explained the meaning behind each of their parts in the song.
 
@@ -23,9 +23,9 @@ The song has a very strong message with regards to the education system in Malay
 
 Malaysians will have to find alternative means to watch the film "BABI" as it will not be screened in cinemas in Malaysia. In some interviews he did in Taiwan [^2], he mentioned that he didn't apply for it knowing it will not be approved [^3].
 
-Although there are some who applaud him for speaking the truth on the topic, there are also those who see both the song and film as a national threat and police reports have been lodged [^4][^5].
+Although there are some who applaud him for speaking the truth on the topic, there are also those who see both the song and film as a national threat and police reports have been lodged [^4] [^5].
 
-Namewee is no stranger to controversy from his work and having his works banned, not only in Malaysia [^6][^7]. He is a talented singer, song writer, performer, film director, etc. And I do not know of anyone with the same caliber and guts to do the things he does.
+Namewee is no stranger to controversy from his work and having his works banned, not only in Malaysia [^6] [^7]. He is a talented singer, song writer, performer, film director, etc. And I do not know of anyone with the same caliber and guts to do the things he does.
 
 # More About Namewee, 5Forty2 and The Real Masta Clan
 
@@ -49,20 +49,3 @@ Namewee is no stranger to controversy from his work and having his works banned,
 [^5]: [Namewee's Latest Movie Poster Has Been Reported To The Police For Containing Racial Slurs](https://says.com/my/news/namewee-s-latest-movie-poster-babi-reported-to-police-for-containing-racial-slurs){:target="_blank"}
 [^6]: [Malaysian rapper Namewee's latest song banned from Chinese airwaves as deemed to support HK independence (VIDEO)](https://www.malaymail.com/news/showbiz/2020/04/23/malaysian-rapper-namewees-latest-song-banned-from-chinese-airwaves-as-deeme/1859464){:target="_blank"}
 [^7]: [Rapper Namewee claims latest song about smoking banned in at least three countries (VIDEO)](https://malaysia.news.yahoo.com/rapper-namewee-claims-latest-song-082624092.html){:target="_blank"}
-
-# TODO
-
-  ## TODO Other music colaborations
-
-	 - https://www.youtube.com/watch?v=Ekc1Ctdg_nQ
-     - https://www.youtube.com/watch?v=mRqMCxare2A
-     - https://www.youtube.com/watch?v=OUCv-rP91K4
-	 - https://www.youtube.com/watch?v=_QnecD2Z3r4
-
-  ## TODO Link to 5forty2's video explaining their parts -- https://www.youtube.com/watch?v=l3MmfY-apDc
-
-  ## TODO BTS BABI -- https://www.youtube.com/watch?v=Leo6Z5aLXiE
-
-  ## TODO BTS Happy Family -- https://www.youtube.com/watch?v=NbvDLeVFyhc&t=86s
-
-  ## TODO https://www.imdb.com/event/ev0000293/2020/1
