@@ -43,8 +43,8 @@
 ** DONE Enforce https                                           :@github:tls:
 ** DONE Create Facebook page                                      :@facebook:
 
-* Articles [2/30]
-** TODO Ailee                                             :ailee:@southkorea:
+* Articles [5/30]
+** DOING Ailee                                            :ailee:@southkorea:
 ** TODO Epik High                                :tablo:@southkorea:epikhigh:
 ** TODO AKMU                                               :akmu:@southkorea:
 ** DONE Dirgahayu                                       :dirgahayu:@malaysia:
@@ -57,7 +57,7 @@
 ** TODO Mutesite                                         :mutesite:@malaysia:
 ** TODO Sonic-pi                                        :sonicpi:application:
 ** TODO No Guitar is Safe                           :noGuitarIsSafe:@podcast:
-** TODO Namewee                                           :namewee:@malaysia:
+** DONE Namewee                                           :namewee:@malaysia:
 ** TODO An Pu                                                  :anpu:@taiwan:
 ** TODO Boon Hui Lu                                    :boonHuiLu:@singapore:
 ** TODO Haoren                                             :haoren:@malaysia:
@@ -65,8 +65,8 @@
 ** TODO Nama the Music                               :namaTheMusic:@malaysia:
 ** TODO Bone Thugs N'Harmony                     :boneThugsNHarmony:@usa:rap:
 ** DONE ROTTI - Solanin                           :rotti:solanin:akfg:@japan:
-** DOING Yoyoka Covers Mr. Big's Take Cover       :yoyoka:mrbig:cover:@japan:
-** DOING Elephant Gym -- Half                      :elephantGym:half:@taiwan:
+** DONE Yoyoka Covers Mr. Big's Take Cover        :yoyoka:mrbig:cover:@japan:
+** DONE Elephant Gym -- Half                       :elephantGym:half:@taiwan:
 ** TODO JRabbit                                              :jrabbit:@korea:
 ** TODO Feng E challenges Davie504         :fenge:davie504:challenge:@taiwan:
 	 - https://www.youtube.com/watch?v=KMg4F5ZUf4Q
@@ -74,5 +74,12 @@
 	 - https://www.youtube.com/watch?v=eqnJpXmt_jU
 ** TODO Voice of Baceprot                        :voiceOfBaceprot:@indonesia:
 ** TODO Henry Together                                 :henryTogether:@korea:
-** TODO Sorry Youth                                      :sorryYouth:@taiwan:
 ** TODO Metallica S&M                                  :metallica:sandm:@usa:
+
+* Events
+
+** Eddie Van Halen's death                                            :death:
+	 SCHEDULED: <2020-10-06 Tue>
+
+** John Coultrane's birthday                                       :birthday:
+	 SCHEDULED: <2020-09-23 Wed +1y>
