@@ -7,27 +7,39 @@ date: 2020-12-29
 published: false
 ---
 
-Epik High is a hip-hop/rap group from South Korea and it comprises of Tablo, DJ Tukutz and Mithra Jin.
-
-I started listening to Epik High because of Tablo, where he appeared in a KBS variety show called "The Return of Superman", which I used to watch [^1].
-
-"Home Is Far Away" is from their ninth studio album "We've Done Something Wonderful" (2017) and it is one of the singles from this album with the other one being [연애소설 (Love Story) ft. IU (어이유)](https://www.youtube.com/watch?v=Z3INNjAEqHk&list=OLAK5uy_nm2RKQCfBJdmheDbss7RLhRhVO91G6ubE&index=2){:target="_blank"} [^2] where the song ends and transitions to.
-
-This is one of the few songs I listen to when times get tough. Listen to the lyrics (_turn on the caption for English_) and you'll understand why. It may hit you hard to make you realise that "Home Is Far Away". Also, read the comments on this YouTube video.
+> The older I get, the more afraid I become.
+> I'm running but my feet and my heart have forgotten why.
+> Dreams have become baggage.
+> My only option is to leave them and keep running.
 
 {% include youtube.html id='pTD9Jysi3_g'%}
 
-# The Tablo Podcast
+"Home Is Far Away" is a song that I can relate to. It talks about, depends on how you would interpret it, letting go of your dream(s) or things that you once enjoyed doing to meet other (_people's_) expectations and goals and everyone of us is just so disconnected.
 
-Tablo had a podcast that he did with Dive Studios. Although Tablo recorded its final episode (#56), all the episodes are still available on Apple Podcast, Google Podcast and Spotify (_links are available below_). Do listen to them because Tablo discusses on very interesting and some quite serious topics.
+This is one of the few songs I listen to when times get tough. Take a listen to the lyrics (_turn on the caption for English_) and you'll understand why. Tablo has taken the effort to transcribe the lyrics to English and added them to this YouTube video. Also, read the comments on this YouTube video on other people's experiences related to this song.
 
-# BONUS: Fan-made Music Film Ft. 소네시대 (Girls Generation)
+Epik High is a hip-hop/rap group from South Korea and it comprises of Tablo, DJ Tukutz and Mithra Jin. I started listening to Epik High because of Tablo, where he was in a KBS variety show called "The Return of Superman", which I used to watch [^1].
+
+"Home Is Far Away" is from their ninth studio album "We've Done Something Wonderful" (2017) and one of the singles from this album with the other one being [연애소설 (Love Story) ft. IU (어이유)](https://www.youtube.com/watch?v=Z3INNjAEqHk){:target="_blank"} [^2]. At the end of "Home Is Far Away", you would hear a snippet of 연애소설 (Love Story).
+
+# BONUS #1: Fan-made Music Film Ft. 소네시대 (Girls Generation)
 
 [Holgacity](https://www.youtube.com/user/holgacity){:target="_blank"}, please correct me if I am wrong, is based in Thailand and they are a big fan of Girls Generation. I have to say that the work they have put in to make all these videos are amazing.
 
 For this music film, they have used Epik High's "Home Is Far Away" as the music. See if you can spot all *nine* of them. Jessica might be a bit hard to find. Otherwise, click [here](https://www.youtube.com/watch?v=8AV3FT7G2a4){:target="_blank"} to find out the hidden details.
 
 {% include youtube.html id='cRK3Y7Zmk7o'%}
+
+# BONUS #2: Epik High's New Album (2021)
+
+Epik High has just announced on their social media that their tenth studio album, "Epik High Is Here" (Part 1) will be released on 18 January, 2021.
+
+{% include image.html url='https://pbs.twimg.com/media/EqfnY20VQAIHZkb?format=jpg&name=small' alt='Epik High Is Here (Part 1)' description='Epik High Is Here (Part 1)' %}
+
+# The Tablo Podcast
+
+Tablo had a podcast that he did with Dive Studios. Although Tablo has recorded its final episode (#56), all the episodes are still available on Apple Podcast, Google Podcast and Spotify (_links are available below_). Do listen to them because Tablo talks about not only music-related, but also other interesting, serious and random topics. For example, in [episode #16](https://youtu.be/IH9gJQaLIfU){:target="_blank"}, Tablo shared two late night snacks recipes. Well, if listening to all 56 episodes is a bit too much to listen to, you can listen to the highlights [here](https://www.youtube.com/playlist?list=PLBGt_eNtcAwVWFKgJYC5AD4azcPlYJePI){:target="_blank"} instead.
+
 
 # More About Epik High
 
