@@ -3,7 +3,7 @@ title: Epik High Is Here — Lesson Zero
 layout: post
 tags: epikhigh tablo mithrajin djtukutz southkorea
 author: Alvin Sim
-date: 2021-01-17
+date: 2021-01-16
 published: true
 ---
 
