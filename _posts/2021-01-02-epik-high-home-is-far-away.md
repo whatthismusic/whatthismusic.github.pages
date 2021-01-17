@@ -1,7 +1,7 @@
 ---
 title: Epik High (에픽하이) — 빈차 (Home Is Far Away) ft. 오혁 of Hyukoh
 layout: post
-tags: epikhigh tablo mithrajin drtukutz southkorea girlsgeneration holgacity
+tags: epikhigh tablo mithrajin djtukutz southkorea girlsgeneration holgacity
 author: Alvin Sim
 date: 2021-01-02
 published: true
