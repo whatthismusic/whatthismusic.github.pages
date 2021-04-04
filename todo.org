@@ -78,6 +78,7 @@
 ** TODO Hiromi                                          :hiromi:jazz:pianist:
 ** TODO BADBADNOGOOD                                      :badbadnogood:jazz:
 ** TODO GoGo Penguin                                      :gogopenguin:jazz:
+** TODO Kamaal Williams                                      :kamaalwilliams:jazz:
 
 * Events
 
