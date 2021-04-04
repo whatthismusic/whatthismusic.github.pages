@@ -43,7 +43,7 @@
 ** DONE Enforce https                                           :@github:tls:
 ** DONE Create Facebook page                                      :@facebook:
 
-* Articles [5/30]
+* Articles [5/31]
 ** DOING Ailee                                            :ailee:@southkorea:
 ** TODO Epik High                                :tablo:@southkorea:epikhigh:
 ** TODO AKMU                                               :akmu:@southkorea:
@@ -75,6 +75,8 @@
 ** TODO Voice of Baceprot                        :voiceOfBaceprot:@indonesia:
 ** TODO Henry Together                                 :henryTogether:@korea:
 ** TODO Metallica S&M                                  :metallica:sandm:@usa:
+** TODO Hiromi                                          :hiromi:jazz:pianist:
+** TODO BADBADNOGOOD                                      :badbadnogood:jazz:
 
 * Events
 
@@ -83,3 +85,5 @@
 
 ** John Coultrane's birthday                                       :birthday:
 	 SCHEDULED: <2020-09-23 Wed +1y>
+
+** Jazz Appreciation Month <2021-04-01 Thu>-<2021-04-30 Fri>
