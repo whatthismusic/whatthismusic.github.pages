@@ -83,9 +83,15 @@
 * Events
 
 ** Eddie Van Halen's death                                            :death:
-	 SCHEDULED: <2020-10-06 Tue>
+	 SCHEDULED: <2020-10-06 Tue +1y>
 
 ** John Coultrane's birthday                                       :birthday:
 	 SCHEDULED: <2020-09-23 Wed +1y>
+
+** P. Ramlee                                                       :birthday:
+         SCHEDULED: <1929-03-29 Fri +1y>
+	
+** P. Ramlee                                                          :death:
+         SCHEDULED: <1973-05-29 Tue +1y>
 
 ** Jazz Appreciation Month <2021-04-01 Thu>-<2021-04-30 Fri>
