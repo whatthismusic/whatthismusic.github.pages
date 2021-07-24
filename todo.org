@@ -43,7 +43,7 @@
 ** DONE Enforce https                                           :@github:tls:
 ** DONE Create Facebook page                                      :@facebook:
 
-* Articles [5/33]
+* Articles [5/35]
 ** DOING Ailee                                            :ailee:@southkorea:
 ** TODO Epik High                                :tablo:@southkorea:epikhigh:
 ** TODO AKMU                                               :akmu:@southkorea:
@@ -77,6 +77,8 @@
 ** TODO Metallica S&M                                  :metallica:sandm:@usa:
 ** TODO Hiromi                                          :hiromi:jazz:pianist:
 ** TODO BADBADNOGOOD                                      :badbadnogood:jazz:
+** TODO GoGo Penguin                                      :gogopenguin:jazz:
+** TODO Kamaal Williams                                      :kamaalwilliams:jazz:
 ** TODO Maliq                                            :maliq:malaysia:rap:
 ** TODO The Warning                                         :theWarning:rock:
 
@@ -87,5 +89,11 @@
 
 ** John Coultrane's birthday                                       :birthday:
 	 SCHEDULED: <2020-09-23 Wed +1y>
+
+** P. Ramlee                                                       :birthday:
+         SCHEDULED: <1929-03-29 Fri +1y>
+
+** P. Ramlee                                                          :death:
+         SCHEDULED: <1973-05-29 Tue +1y>
 
 ** Jazz Appreciation Month <2021-04-01 Thu>-<2021-04-30 Fri>
