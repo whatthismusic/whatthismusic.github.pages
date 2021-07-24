@@ -43,7 +43,7 @@
 ** DONE Enforce https                                           :@github:tls:
 ** DONE Create Facebook page                                      :@facebook:
 
-* Articles [5/31]
+* Articles [5/33]
 ** DOING Ailee                                            :ailee:@southkorea:
 ** TODO Epik High                                :tablo:@southkorea:epikhigh:
 ** TODO AKMU                                               :akmu:@southkorea:
@@ -77,11 +77,13 @@
 ** TODO Metallica S&M                                  :metallica:sandm:@usa:
 ** TODO Hiromi                                          :hiromi:jazz:pianist:
 ** TODO BADBADNOGOOD                                      :badbadnogood:jazz:
+** TODO Maliq                                            :maliq:malaysia:rap:
+** TODO The Warning                                         :theWarning:rock:
 
 * Events
 
 ** Eddie Van Halen's death                                            :death:
-	 SCHEDULED: <2020-10-06 Tue>
+	 SCHEDULED: <2020-10-06 Tue +1y>
 
 ** John Coultrane's birthday                                       :birthday:
 	 SCHEDULED: <2020-09-23 Wed +1y>
