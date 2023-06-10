@@ -7,7 +7,7 @@ date: 2020-10-10
 published: true
 ---
 
-Ailee (에일리)
+Ailee (에일리) is known as Korea's Beyoncé. Listen to her sing and you would know why.
 
 {% include youtube.html id='cM4YL_ntwW4'%}
 
